@@ -1,0 +1,9 @@
+ Em um projeto de banco de dados, a modelagem é essencial e pode ser feita através do Modelo Entidade Relacionamento (MER). Este modelo descreve os objetos do mundo real através de entidades,
+atributos e relacionamentos. As entidades representam objetos independentes, como pessoas, empresas, carros, entre outros. Existem entidades fortes, fracas e associativas.
+  Os atributos descrevem como propriedades das entidades, como nome, data de nascimento, etc. Atributos são simples, compostos, multivalorados, derivados e chaves.
+Os relacionamentos são associações entre entidades, sendo classificados em UM PARA UM, UM PARA MUITOS e MUITOS PARA MUITOS.
+  O Diagrama Entidade-Relacionamento (DER) é utilizado para representar graficamente o MER. Ao projetar um sistema de controle de cursos, identificamos entidades como aluno,
+curso e professor, com atributos específicos para cada um. Os relacionamentos entre eles são definidos, como alunos matriculados em cursos, cursos coordenados por professores,
+e alunos orientados por professores.
+  Com isso, é possível criar um esquema detalhado do banco de dados, que irá armazenar todas as informações necessárias para o sistema. Dessa forma, 
+o modelo de relacionamento de entidade é fundamental para garantir a integridade dos dados e facilitar o desenvolvimento de aplicações eficientes.
